@@ -52,7 +52,7 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
 
   | Brand           | Model | MCU      | Rebrand MCU | QMK  | Link | Backlight | Hotswap | Wireless | KLE                                                                                    |
   | --------------- | ----- | -------- | ----------- | ---- | ---- | --------- | ------- | -------- | -------------------------------------------------------------------------------------- |
-  | Womier(GamaKay) | K66   | VS11K16A | SN32F268    | WIP  |      | RGB       | All     | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/8ddceb2e7bdef2bfa16d6c0825257358) |
+  | Womier(GamaKay) | K66 v1   | VS11K16A & VS12L03A | SN32F268F & SLED1734X   | Yes  |   PR pending   | RGB       | All     | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/8ddceb2e7bdef2bfa16d6c0825257358) |
   |                 |       |          |             |      |      |           |         |          |                                                                                        |
 </details>
 
